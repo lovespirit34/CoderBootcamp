@@ -1,0 +1,10 @@
+Git Commands
+
+What This Will Become:
+- a stylized locally hosted webpage
+- It will be a reference of a list of git commands and their explanations
+
+Tasks to complete:
+- Compile a list of commands
+- Add HTML and CSS to the page
+- Add local host address
